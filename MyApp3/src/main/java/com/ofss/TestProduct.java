@@ -8,6 +8,7 @@ public class TestProduct {
 		System.out.println("jenkin build");
 		System.out.println("this is jenkin build and working");
 		System.out.println("Integration Github to Jenkin Aug 6-2020");
+		System.out.printlin ("2nd try");
 
 	}
 
