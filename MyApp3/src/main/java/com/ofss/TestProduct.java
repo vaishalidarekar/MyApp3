@@ -12,6 +12,7 @@ public class TestProduct {
 		System.out.println("Integration Github to Jenkin Aug 6-2020");
 		System.out.println ("2nd try");
 		System.out.println("in c: target chk");
+		System.out.println("next is web app try");
 		
 
 	}
